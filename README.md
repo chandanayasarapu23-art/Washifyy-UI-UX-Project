@@ -29,3 +29,8 @@ UI/UX Designer
 
 ## Project Learning
 This project helped me understand user journeys, identify usability challenges and design alternative flows for different customer scenarios.
+## App Screenshots
+
+### Washifyy – Application Overview
+
+![Washifyy App Screens](image(1).png)
